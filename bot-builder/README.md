@@ -2,7 +2,7 @@
 
 Bot builder Agentise
 
-`bot-builder` · v1.0.0 · Ilyass · MIT
+`bot-builder` · v1.0.0
 
 ## Install
 
