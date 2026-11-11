@@ -1,8 +1,6 @@
-# Starter agent
+# starter-agent
 
-A minimal example agent: one identity file and one skill. Install it to see what a Hermes template carries, then replace it with your own.
-
-`starter-agent` · v1.0.0 · Ilyass Bm · MIT
+`starter-agent` · v1.1.0
 
 ## Install
 
