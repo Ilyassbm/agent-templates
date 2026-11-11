@@ -1,6 +1,6 @@
-# Hermes bot builder
+# Bot builder Agentise
 
-Hermes bot builder
+Bot builder Agentise
 
 `bot-builder` · v1.0.0 · Ilyass · MIT
 
